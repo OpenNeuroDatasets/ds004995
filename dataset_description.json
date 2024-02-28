@@ -12,9 +12,6 @@
         "ARC DP160101300 (TAC)",
         "ARC DP200101787 (TAC)"
     ],
-    "ReferencesAndLinks": [
-        "https://doi.org/10.17605/OSF.IO/5B8K6",
-        "https://doi.org/10.1101/2021.05.24.445376"
-    ],
+    "ReferencesAndLinks": [],
     "HowToAcknowledge": "Moerel, D., Psihoyos, J., & Carlson, T. A. (2023). The Time-Course of Food Representation in the Human Brain. bioRxiv, 2023-06. https://doi.org/10.1101/2021.05.24.445376"
 }
