@@ -16,5 +16,6 @@
         "https://doi.org/10.17605/OSF.IO/PWC4K",
         "https://doi.org/10.1101/2023.06.06.543985"
     ],
-    "HowToAcknowledge": "Moerel, D., Psihoyos, J., & Carlson, T. A. (2023). The Time-Course of Food Representation in the Human Brain. bioRxiv, 2023-06. https://doi.org/10.1101/2021.05.24.445376"
+    "HowToAcknowledge": "Moerel, D., Psihoyos, J., & Carlson, T. A. (2023). The Time-Course of Food Representation in the Human Brain. bioRxiv, 2023-06. https://doi.org/10.1101/2021.05.24.445376",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004995.v1.0.0"
 }
