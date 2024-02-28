@@ -1,7 +1,6 @@
 NOTE: The dataset currently contains the example data for 1 participant only. The full dataset will be uploaded upon publication of the manuscript.
 
 Code and figures: https://doi.org/10.17605/OSF.IO/PWC4K
-
 Manuscript: https://doi.org/10.1101/2023.06.06.543985
 
 The main folder contains the raw EEG data for an example participant in standard bids format. See references.
