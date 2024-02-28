@@ -3,9 +3,9 @@
     "BIDSVersion": "1.0.2",
     "License": "CC0",
     "Authors": [
-        "Moerel, Denise",
-        "Psihoyos, James",
-        "Carlson, Thomas"
+        "Denise Moerel",
+        "James Psihoyos",
+        "Thomas A. Carlson"
     ],
     "Acknowledgements": "We would like to acknowledge the University of Sydney HPC service for providing High Performance Computing resources.",
     "Funding": [
